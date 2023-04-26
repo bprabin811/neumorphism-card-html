@@ -1,0 +1,60 @@
+body {
+  background-color: #f2f2f2;
+  height: 100vh;
+  width: 100vw;
+  flex-wrap: wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card1{
+    background-color: #f2f2f2;
+        box-shadow: 8px 8px 16px #d9d9d9, -8px -8px 16px #ffffff;
+        border-radius: 20px;
+        padding: 20px;
+        margin: 25px;
+        width: 200px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.card2{
+    background-color: #f2f2f2;
+        box-shadow: 8px 8px 16px #c4c4c4, -8px -8px 16px #ffffff;
+        border-radius: 20px;
+        padding: 20px;
+        margin: 25px;
+        width: 200px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.card3{
+    background-color: #f2f2f2;
+        box-shadow: inset 8px 8px 16px #d9d9d9, inset -8px -8px 16px #ffffff;
+        border-radius: 20px;
+        padding: 20px;
+        margin: 25px;
+        width: 200px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.card4{
+    background-color: #f2f2f2;
+        box-shadow: -8px -8px 16px #ffffff, 8px 8px 16px #d9d9d9,
+          inset 8px 8px 16px #ffffff, inset -8px -8px 16px #d9d9d9;
+        border-radius: 20px;
+        padding: 20px;
+        margin: 25px;
+        width: 200px;
+        height: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
